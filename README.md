@@ -25,4 +25,4 @@ Las ventas pueden ser en efectivo o con tarjeta. En el caso que sea con tarjeta,
 
 ## Diagrama de Clases
 
-https://lucid.app/lucidchart/00e7af94-4087-4dab-bbfb-46b14460b647/edit?beaconFlowId=0AEFA56152B240DF&page=0_0#
+https://lucid.app/lucidchart/invitations/accept/inv_05a4265c-89e7-4cba-9e85-709e06f97959?viewport_loc=-2469%2C-1199%2C3328%2C1598%2C0_0
